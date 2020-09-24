@@ -15,7 +15,7 @@
 - Github
 - CI/CD
 
-## SDLC indepth
+## SDLC in-depth
 ____
 - The SDLC is repeated over the lifetime of
 an application; it’s used to create, update,
@@ -23,10 +23,6 @@ fix, and maintain the application.
 - Each step in the cycle allows a company to
 focus on producing the best application
 possible.
-
-<!-- <p align='left'>Python 3 and pip<br><a href="https://youtu.be/K66ygx4JCls
-" target="_blank"><img src="./play_button.png"
-alt="Click to watch" width="100" height="100" border="2"><br>Watch streaming https://youtu.be/K66ygx4JCls</a></p> -->
 
 <p align='center'><br><a href="./img/SDLC.png" target="_blank"><img src="./img/SDLC.png" alt="sdlc" border="2"><br>Phase of the SDLC</a></p>
 
@@ -143,7 +139,7 @@ Here are some general guidelines to follow:
 - Encourage two-way feedback
 - Use time wisely
 
-## SDLC Phases in more depth
+## SDLC Phases in-depth
 ___
 
 <p align='center'><br><a href="./img/SDLC1.png" target="_blank"><img src="./img/SDLC1.png" alt="sdlc_planning" border="2"><br>Planning Phase</a></p>
