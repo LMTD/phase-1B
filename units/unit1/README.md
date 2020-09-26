@@ -30,7 +30,7 @@ DevBops is the next big platform for aspiring technologists. Users are able to R
 
 You all will be a part of the engineering team, in charge of the direction of this project from start to finish.
 
-![Project Image](./resources/assets/microserviceProj.jpg)
+![Project Image](../../resources/assets/microserviceProj.jpg)
 
 ### Project Tasks 
 ##### Team 1: Frontend Web App
