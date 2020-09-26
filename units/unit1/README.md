@@ -69,3 +69,5 @@ Your responsibilities are to ensure the project is highly documented (comments, 
 
 ## Resources
 * [What are Microservices](https://divante.com/blog/what-are-microservices-introduction-to-microservice-architecture-for-ecommerce-2/)
+* [Test Driven Development](https://realpython.com/python-testing/)
+* [Microservice Essentials](https://technologyconversations.com/2015/11/10/microservices-the-essential-practices/)
