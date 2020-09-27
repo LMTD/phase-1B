@@ -70,4 +70,12 @@ Your responsibilities are to ensure the project is highly documented (comments, 
 ## Resources
 * [What are Microservices](https://divante.com/blog/what-are-microservices-introduction-to-microservice-architecture-for-ecommerce-2/)
 * [Test Driven Development](https://realpython.com/python-testing/)
+* [Microservices Best Practices](https://www.mulesoft.com/sites/default/files/resource-assets/MuleSoft%20%20-%20Best%20Practices%20for%20Microservices.pdf)
+* [Microservices and Python](https://www.fullstackpython.com/microservices.html)
+* [Microservice Architecture (Examples and Diagram)](https://www.devteam.space/blog/microservice-architecture-examples-and-diagram/)
+* [On Monoliths and Microservices](https://www.otto.de/jobs/technology/techblog/artikel/on-monoliths-and-microservices_2015-09-30.php)
 * [Microservice Essentials](https://technologyconversations.com/2015/11/10/microservices-the-essential-practices/)
+* [Understanding Microservices](https://www.sitepoint.com/premium/books/python-microservices-development/read/1)
+* [Example Microservice Application using Flask](https://developers.redhat.com/blog/2016/09/15/writing-microservices-an-example-through-a-simple-to-do-application/)
+* [Microservices Example with Nameko](https://www.toptal.com/python/introduction-python-microservices-nameko)
+* 
