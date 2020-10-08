@@ -4,7 +4,6 @@
 - What issues arise when teams are working on making changes to large projects?
 - What happens when teams are working on too many branches of an app at once?
 - Why don't companies build projects from their developer's local machines? Or do they?
-- Why TDD and examples?
 
 *What are some of the tools I need?*
 
