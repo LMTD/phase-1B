@@ -51,7 +51,8 @@ Following the process of Continuous Integration allows developers to end each ne
 ## Resources
 * [What is CI/CD](https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html)
 * [The difference between CI and CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+* [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [Automated Builds](https://www.agilealliance.org/glossary/automated-build/)
 * [What are Build Servers?](https://deviq.com/build-server/)
 * [What is the point of a build server?](https://stackoverflow.com/questions/1099133/what-is-the-point-of-a-build-server)
-
+* [Jenkins, TeamCity, Bamboo Comparison](https://stackify.com/jenkins-teamcity-bamboo/)
