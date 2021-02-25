@@ -1,10 +1,5 @@
 # LMTD Phase 1B - Project Two - Containerized Application
 
-## Description 
-## About Docker & Containers
-## The Characteristics of Container Architecture
-
-
 ## About Our Project - devBops
 DevBops is the next big platform for aspiring technologists. Users are able to RSVP to events related to technology happening across the world, and share pieces of writing relevant to technical topics of all varieties. 
 
