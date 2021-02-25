@@ -1,4 +1,4 @@
-# LMTD - Phase One
+# LMTD - Phase One B
 Intro to Cloud Technology & Foundational Cloud/DevOps Concepts
 Linux, Python, and Cloud Computing with AWS
 
@@ -77,10 +77,10 @@ Week | Date | Content | README | Assigned | Due
 2 | 9/29 - 10/05 | Test Driven Development | [TDD](./resources/tdd) | [Microservice Project](./units/unit1/README.md) | --
 3 | 10/06 - 10/12 | Continuous Integration | [CI/CD](./resources/ci-cd) | [Microservice Project](./units/unit1/README.md) | --
 4 | 10/13 - 10/19  | Microservices & Containerization | [Docker](./units/unit3/README.md) | [Microservice Project](./units/unit1/README.md) | --
-5 | 10/20 - 10/26 | Configuration Management | [CM](./units/unit4/README.md) | -- | --
-6 | 10/27 - 11/02 | Container Orchestration / Kubernetes | [K8s](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | -- | --
-7 | 11/03 - 11/09 | Infrastructure as Code | [IaC](./units/unit4/README.md) | -- | --
-8 | 11/10 - 11/16 | Server Monitoring & Logging | -- | -- | --
+5 | 10/20 - 10/26 | Configuration Management | [CM](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/introduction-devops-aws.pdf) | [Deployment Environments & CI/CD](./units/unit2/README.md) | --
+6 | 10/27 - 11/02 | Container Orchestration / Kubernetes | [K8s](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | [Deployment Environments & CI/CD](./units/unit2/README.md) | --
+7 | 11/03 - 11/09 | Infrastructure as Code | [IaC](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/introduction-devops-aws.pdf) | [Deployment Environments & CI/CD](./units/unit2/README.md) | --
+8 | 11/10 - 11/16 | Server Monitoring & Logging | [Monitoring](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/introduction-devops-aws.pdf) | [Deployment Environments & CI/CD](./units/unit2/README.md) | --
 
 Due
 -- | TBA | -- | -- | -- | Final Showcase
