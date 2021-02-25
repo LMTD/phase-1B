@@ -70,7 +70,7 @@ Student evaluations in this course will be assigned as follows:
 
 May change to accommodate guest presenters & student needs.
 
-Week | Date | Content | README | Assigned | Due
+Week | Date | Content | README | Assigned
 --|--|--|--|--|--|
 0 | 9/14 - 9/21 | Intersession | -- | --
 1 | 9/22 - 9/28 | Software Delivery Lifecycle | [SDLC](./resources/sdlc) | [Microservice Project](./units/unit1/README.md)
