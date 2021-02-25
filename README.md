@@ -1,4 +1,4 @@
-# LMTD - Phase One B
+# LMTD - Phase 1B
 Intro to Cloud Technology & Foundational Cloud/DevOps Concepts
 Linux, Python, and Cloud Computing with AWS
 
